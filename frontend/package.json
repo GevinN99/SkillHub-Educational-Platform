@@ -1,0 +1,68 @@
+{
+  "name": "frontedn",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^5.3.7",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mantine/core": "^7.9.0",
+    "@mantine/form": "^7.9.0",
+    "@mantine/notifications": "^7.9.0",
+    "@mui/icons-material": "^5.15.16",
+    "@mui/material": "^5.15.17",
+    "@react-buddy/ide-toolbox": "^2.4.0",
+    "@react-buddy/palette-antd": "^5.3.1",
+    "@stripe/react-stripe-js": "^2.7.1",
+    "@stripe/stripe-js": "^3.4.0",
+    "@tabler/icons-react": "^3.3.0",
+    "@tanstack/react-query": "^5.34.1",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "antd": "^5.17.0",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
+    "firebase": "^10.11.1",
+    "flowbite-react": "^0.9.0",
+    "framer-motion": "^11.1.9",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "^18.3.1",
+    "react-lottie": "^1.2.4",
+    "react-player": "^2.16.0",
+    "react-router-dom": "^6.23.0",
+    "react-scripts": "5.0.1",
+    "react-to-print": "^2.15.1",
+    "react-toastify": "^10.0.5",
+    "react-tsparticles": "^2.12.2",
+    "styled-components": "^6.1.11",
+    "tsparticles-slim": "^2.12.0",
+    "uuid": "^9.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
